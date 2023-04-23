@@ -1,35 +1,28 @@
-<p align="center">
-  ## >>Genius<<
-  an aspiring full-stack developer
-</p>
-
 
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>/ about me /
 * Currently learning Web Development by Self
 * a student working his way around things
-<br>
 
-## Socials:
+
+## 🌐 Socials:
 <p>
   <a href="https://www.instagram.com/geniusjoelraj/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Tech Stack</b>
+# 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,mysql,py,linux,git" />
   </a>
 </p>
 
-<br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><br>
-![](https://github-readme-stats.vercel.app/api?username=geniusjoelraj&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=geniusjoelraj&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geniusjoelraj&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geniusjoelraj&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
+</p>
