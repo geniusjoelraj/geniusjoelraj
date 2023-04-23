@@ -2,10 +2,16 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geniusjoelraj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@geniusjoelraj) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tada-no-Tensai) 
 
+<p align="center">
+  <a href="https://www.instagram.com/geniusjoelraj/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,mysql,py,linux,codepen,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,mysql,py,linux,git" />
   </a>
 </p>
 
