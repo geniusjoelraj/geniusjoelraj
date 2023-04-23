@@ -32,3 +32,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=geniusjoelraj&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geniusjoelraj&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geniusjoelraj&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
