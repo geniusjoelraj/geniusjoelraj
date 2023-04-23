@@ -1,5 +1,5 @@
-<h1 align="center">>> Genius << </h1>
-a wannabe full-stack developer
+<p align="center"><h1>>> Genius << </h1>
+a wannabe full-stack developer</p>
 
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
