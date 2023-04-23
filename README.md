@@ -1,8 +1,12 @@
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geniusjoelraj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@geniusjoelraj) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tada-no-Tensai) 
 
-<p align="center">
+## <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>/ about me /
+* Currently learning Web Development by Self
+* a student working his way around things
+
+
+## 🌐 Socials:
+<p>
   <a href="https://www.instagram.com/geniusjoelraj/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
