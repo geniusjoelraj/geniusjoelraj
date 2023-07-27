@@ -3,17 +3,11 @@
 
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-* Currently learning Web Development by Self
+* Currently learning to code </>
 * a student working his way around things
 
 <br>
 
-## Socials:
-<p>
-  <a href="https://www.instagram.com/geniusjoelraj/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
 
 <br><br>
 
