@@ -6,7 +6,7 @@
 </div>
 
 <h1>🇮🇳 About me</h1>
-🖥️ Full-Stack Developer | MERN Stack<br>📱 Currently learning React Native for app development<br>❤️ Using and contributing to open source<br>🐧 Arch Linux user – ricing my setup is a hobby<br>🎌 Huge fan of anime & manga<br>🏆 Active participant in hackathons & symposiums<br>I use Arch, btw.<br>🔗 Check out my projects & let's collaborate! 🚀<br>
+🖥️ Full-Stack Developer | MERN Stack<br>📱 Currently learning React Native for app development<br>❤️ Using and contributing to open source<br>🐧 Arch Linux user – ricing my setup is a hobby<br>🎌 Huge fan of anime & manga<br>🏆 Active participant in hackathons & symposiums<br>💻 I use Arch, btw.<br>🔗 Check out my projects & let's collaborate! 🚀<br>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
