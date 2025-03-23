@@ -1,7 +1,7 @@
 
 <div align="center">
 
- # ${\color{lightblue}Hi \space there, \space It's \space Genius...}$
+# $${\color{lightblue}Hi! \space It's \space Genius}$$
 
 </div>
 
