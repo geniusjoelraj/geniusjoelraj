@@ -6,7 +6,7 @@
 </div>
 
 <h1>🇮🇳 About me</h1>
-🖥️ Full-Stack Developer | ❤️ Open source | 🐧 Linux user – ricing my setup is a hobby | 🎌 Huge fan of anime & manga | 🏆 won in many symposiums & hackathons |  📱 Currently learning React Native | 💻 I use Arch, btw.<br>🔗 Check out my projects & let's collaborate! 🚀<br>
+🖥️ Full-Stack Developer | ❤️ Open source | 🐧 Linux user – ricing my setup is a hobby | 🎌 Huge fan of anime & manga | 🏆 won in many symposiums & hackathons |  📱 Currently building cool projects | 💻 I use Arch, btw.<br>🔗 Check out my projects & let's collaborate! 🚀<br>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
