@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi! It's Genius
+# Hi! It's Genius...
 
 </div>
 
